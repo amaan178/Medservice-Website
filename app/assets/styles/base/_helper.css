@@ -24,3 +24,18 @@
         padding: 10px 0;
     }
 }
+.p-0 {
+    padding: 0;
+}
+.pt-0 {
+    padding-top: 0;
+}
+.pb-0 {
+    padding-bottom: 0;
+}
+.pb-80 {
+    padding-bottom: 80px;
+}
+.relative {
+    position: relative;
+}

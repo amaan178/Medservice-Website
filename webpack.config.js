@@ -32,7 +32,7 @@ module.exports = {
                 test: /\.css$/i,
                 use: [
                     'style-loader',
-                    'css-loader?url=false',
+                    'css-loader?url=false',// to handle the images manually url have to be given in false
                     {
                         loader: 'postcss-loader',
                         options: {
