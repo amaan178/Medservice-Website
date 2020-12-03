@@ -1,5 +1,6 @@
 import "../styles/styles.css";
 import MobileMenu from "./modules/MobileMenu";
+import "lazysizes";
 import RevealOnScroll from "./modules/RevealOnScroll";
 import SmoothScroll from "./modules/SmoothScroll";
 import $ from 'jquery';
