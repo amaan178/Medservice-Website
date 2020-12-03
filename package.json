@@ -18,7 +18,9 @@
   "homepage": "https://gitlab.com/amaan.jambura178/medservice-website#readme",
   "dependencies": {
     "favicon": "0.0.2",
-    "normalize.css": "^8.0.1"
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
