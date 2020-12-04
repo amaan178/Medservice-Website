@@ -150,3 +150,6 @@
         }
     }
 }
+.is-current-link {
+    color: $blue;
+}
