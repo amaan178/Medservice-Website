@@ -13,4 +13,7 @@
 @import "modules/_counter";
 @import "modules/_testimonial";
 @import "modules/_services";
+@import "modules/_form";
+@import "modules/_contact-box";
+@import "modules/_modal";
 @import "modules/_reveal-item";
